@@ -1,0 +1,31 @@
+{
+	"English": {
+		"quiz.createentryalready": "Quiz with id {0} already exists",
+		"quiz.createentrytitle": "{0}",
+		"quiz.quiz.createentrytext": "Quiz was successfully created",
+		"quiz.poll.createentrytext": "Poll was successfully created",
+		"quiz.getresult": "{0}'s answers",
+		"quiz.infotitle": "Useful info",
+		"quiz.info": "You can view all subcommands using -help.\nTo see command usage just write them without args.\nTo change prefix edit config.json file in the application root.\nQuiz and polls data stored in ./modules/quiz/data/[timestamp].json.\nYou can access last quiz or poll data with -quiz/-poll getresult command\nCreateEntry can't use emotes (Custom server emojis).\nEntry answer should look like this: \"Answer text;👋\".\nManual editing is also available for quizes and polls in ./modules/quiz folder",
+		"quiz.finaldmstitle": "Results of your answers:",
+		"quiz.quizresults": "Results of your answers:",
+		"quiz.correct": "Correct",
+		"quiz.incorrect": "Incorrect",
+		"quiz.loading": "Now loading...",
+		"quiz.poll.usage": "[Subcommand]",
+		"quiz.quiz.create.usage": "[Question]",
+		"quiz.quiz.createmultiple.usage": "[Question1] [Question2] ...",
+		"quiz.quiz.instantcreatemultiple.usage": "[Question1] [Question2] ...",
+		"quiz.quiz.getresult.usage": "[Username] (Gets info about previous quiz game)",
+		"quiz.poll.getresult.usage": "[Username] (Gets info about previous quiz game)",
+		"quiz.poll.create.usage": "[Question]",
+		"quiz.poll.createmultiple.usage": "[Question1] [Question2] ...",
+		"quiz.poll.instantcreatemultiple.usage": "[Question1] [Question2] ...",
+		"quiz.quiz.usage": "[Subcommand]",
+		"quiz.quiz.create": "[QuizEntry]",
+		"quiz.quiz.createentry.usage": "\"Question;QuestionID\" \"Answer1;[Emoji]\" \"Answer2;[Emoji]\" \"Answer3;[Emoji]!\" [Time in seconds, if necessary] (! in the end means it's the correct answer)",
+		"quiz.poll.createentry.usage": "\"Question;QuestionID\" \"Answer1;[Emoji]\" \"Answer2;[Emoji]\" \"Answer3;[Emoji]\" [Time in seconds, if necessary]",
+		"quiz.handler.correctanswer": "Question \"{0}\" got correct answer!",
+		"quiz.correctanswer": "The correct answer for this question was: \"{1}\"\n{2} got this one!"
+	}
+}

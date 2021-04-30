@@ -1,0 +1,24 @@
+{
+	"English": {
+		"essentials.help": "List of available commands:",
+		"essentials.help.module": "List of available commands of {0} module:",
+		"essentials.modules": "List of loaded modules:",
+		"essentials.subcommands": "`- Subcommands: {0}`",
+		"essentials.aliases": "`- Aliases: {0}`",
+		"essentials.modules.usage": "",
+		"essentials.help.usage": "[Module (optional)]",
+		"essentials.send.usage": "[Message]",
+		"essentials.send.embed.usage": "[Embed] [Embed JSON data]"
+	},
+	"Russian": {
+		"essentials.help": "Список доступных команд:",
+		"essentials.help.module": "Список доступных команд модуля {0}:",
+		"essentials.modules": "Список загруженных модулей:",
+		"essentials.subcommands": "`- Подкоманды: {0}`",
+		"essentials.aliases": "`- Альт.: {0}`",
+		"essentials.modules.usage": "",
+		"essentials.help.usage": "[Модуль (опционально)]",
+		"essentials.send.usage": "[Сообщение]",
+		"essentials.send.embed.usage": "[Embed] [JSON информация эмбеда]"
+	}
+}

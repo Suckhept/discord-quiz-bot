@@ -1,0 +1,15 @@
+{
+  "English": {
+    "errorTitle": "An error occured while processing your request",
+    "unknown": "Сontact bot owners for help",
+    "usage": "```Usage:\n{0}```",
+    "poweredBy": "Powered by {0}",
+    "notOwner": "Missing permission to perform this action"
+  },
+  "Russian": {
+    "errorTitle": "При обработке запроса произошла ошибка",
+    "unknown": "Свяжитесь с владельцем бота для помощи",
+    "usage": "```Использование:\n{0}```",
+    "notOwner": "Отсутствует право для исполнения этого действия"
+  }
+}
